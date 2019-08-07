@@ -3,12 +3,12 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title> Spammers </title>
 </head>
 
 <body>
-    <h1></h1>
-    <p> </p>
+    <h1>Description</h1>
+    <p>Spamming is the use of electronic messaging systems like e-mails and other digital delivery systems and broadcast media to send unwanted bulk messages indiscriminately. Spamming is a technique used by companies and scammers to meet their own needs. This is much cheaper than bulk shipping which saves companies money and for scammers this is much easier than other ways of gaining personal information but does not have a guaranteed chance of working.</p>
 
     <h2></h2>
     <p></p>
